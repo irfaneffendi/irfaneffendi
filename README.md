@@ -3,13 +3,26 @@
 </h1>
 
 <h3 align='center'>
-  <b>Backend web Developer</b>.
+  <b>Web Developer</b>.
 </h3>
 
-### Let's connect!
+<!-- <div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)" />
+  </p>
+</div> -->
 
 <div align='center'>
-  <h4>Contact Me</h4>
+  <h3>Contact Me</h3>
   <p>
     <a href="https://www.linkedin.com/in/irfaaneffendi/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -30,7 +43,7 @@
 </div>
 
 <p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api?username=irfaneffendi&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" width="50%" height="50%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=irfaneffendi&show_icons=true&count_private=true&include_all_commits=true" width="50%" height="50%"/>
 </p>
 <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfaneffendi&layout=compact" width="50%" height="50%"/>
