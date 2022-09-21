@@ -43,8 +43,8 @@
 </div>
 
 <p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api?username=irfaneffendi&show_icons=true&count_private=true&include_all_commits=true" width="50%" height="50%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=irfaneffendi&show_icons=true&count_private=true&theme=monokai&include_all_commits=true" width="50%" height="50%"/>
 </p>
 <p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfaneffendi&layout=compact" width="50%" height="50%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfaneffendi&layout=compact&theme=monokai" width="50%" height="50%"/>
 </p>
